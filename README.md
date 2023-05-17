@@ -2,7 +2,7 @@
 Generate a CLASIFICATION MODEL about Stroke-Prediction
 
 
-[Presentation_CLASIFICATION MODEL_Stroke-Prediction](https://github.com/Leangonplu/house-price-prediction/blob/main/assets/Presentation_Regression_m2%20Properties.pptx)
+[Presentation_CLASIFICATION MODEL_Stroke-Prediction](https://github.com/Leangonplu/Clasification_Stroke-Prediction/blob/main/Stroke%20Presentation.pptx)
 
 ![Diapositiva1](https://github.com/Leangonplu/Clasification_Stroke-Prediction/blob/main/'assets'/Diapositiva1.PNG)
 ![Diapositiva1](https://github.com/Leangonplu/Clasification_Stroke-Prediction/blob/main/'assets'/Diapositiva2.PNG)

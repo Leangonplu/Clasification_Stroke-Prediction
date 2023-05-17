@@ -1,2 +1,24 @@
 # Clasification_Stroke-Prediction
-Clasification_Stroke-Prediction
+Generate a CLASIFICATION MODEL about Stroke-Prediction
+
+
+[Presentation_CLASIFICATION MODEL_Stroke-Prediction](https://github.com/Leangonplu/house-price-prediction/blob/main/assets/Presentation_Regression_m2%20Properties.pptx)
+
+![Diapositiva1](https://github.com/Leangonplu/Clasification_Stroke-Prediction/blob/main/'assets'/Diapositiva1.PNG)
+![Diapositiva1](https://github.com/Leangonplu/Clasification_Stroke-Prediction/blob/main/'assets'/Diapositiva2.PNG)
+![Diapositiva1](https://github.com/Leangonplu/Clasification_Stroke-Prediction/blob/main/'assets'/Diapositiva3.PNG)
+![Diapositiva1](https://github.com/Leangonplu/Clasification_Stroke-Prediction/blob/main/'assets'/Diapositiva4.PNG)
+![Diapositiva1](https://github.com/Leangonplu/Clasification_Stroke-Prediction/blob/main/'assets'/Diapositiva5.PNG)
+![Diapositiva1](https://github.com/Leangonplu/Clasification_Stroke-Prediction/blob/main/'assets'/Diapositiva6.PNG)
+![Diapositiva1](https://github.com/Leangonplu/Clasification_Stroke-Prediction/blob/main/'assets'/Diapositiva7.PNG)
+![Diapositiva1](https://github.com/Leangonplu/Clasification_Stroke-Prediction/blob/main/'assets'/Diapositiva8.PNG)
+![Diapositiva1](https://github.com/Leangonplu/Clasification_Stroke-Prediction/blob/main/'assets'/Diapositiva9.PNG)
+![Diapositiva1](https://github.com/Leangonplu/Clasification_Stroke-Prediction/blob/main/'assets'/Diapositiva10.PNG)
+![Diapositiva1](https://github.com/Leangonplu/Clasification_Stroke-Prediction/blob/main/'assets'/Diapositiva11.PNG)
+![Diapositiva1](https://github.com/Leangonplu/Clasification_Stroke-Prediction/blob/main/'assets'/Diapositiva12.PNG)
+![Diapositiva1](https://github.com/Leangonplu/Clasification_Stroke-Prediction/blob/main/'assets'/Diapositiva13.PNG)
+![Diapositiva1](https://github.com/Leangonplu/Clasification_Stroke-Prediction/blob/main/'assets'/Diapositiva14.PNG)
+![Diapositiva1](https://github.com/Leangonplu/Clasification_Stroke-Prediction/blob/main/'assets'/Diapositiva15.PNG)
+![Diapositiva1](https://github.com/Leangonplu/Clasification_Stroke-Prediction/blob/main/'assets'/Diapositiva16.PNG)
+![Diapositiva1](https://github.com/Leangonplu/Clasification_Stroke-Prediction/blob/main/'assets'/Diapositiva17.PNG)
+![Diapositiva1](https://github.com/Leangonplu/Clasification_Stroke-Prediction/blob/main/'assets'/Diapositiva18.PNG)
